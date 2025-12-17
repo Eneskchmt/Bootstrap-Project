@@ -1,0 +1,66 @@
+
+*{
+    transition: 0.3s all;
+}
+
+.resimSlider{
+    height: 600px;
+    object-fit: cover;
+}
+
+body {
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hakkimizda{
+    background-color: #f2f2f2;
+
+}
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 50px;
+    background-color: white;
+}
+
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -50px;
+    font-size: 50px;
+    background-color: #f2f2f2;
+}
+
+.card img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.ekipCard img:hover {
+
+    opacity: 0.8;
+}
+
+.galeri {
+    background-color: #f2f2f2;
+}
+
+.figure-img {
+    height: 400px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.figure:hover {
+    opacity: 0.8;
+}
